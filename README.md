@@ -8,3 +8,4 @@ Armando Terrazas Gómez
 Heber Giovanni Moran Briones 
 Fernanda Elizabeth Romo Alarcón
 Nolberto Castro Sánchez
+Alan Antonio Ruelas Robles
