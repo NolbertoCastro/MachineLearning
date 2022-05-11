@@ -4,7 +4,9 @@
 
 ##Integrantes:🛠
 
-Armando Terrazas Gómez <br>
-Heber Giovanni Moran Briones <br>
-Fernanda Elizabeth Romo Alarcón <br>
-Nolberto Castro Sánchez <br>
+-Armando Terrazas Gómez <br>
+-Heber Giovanni Moran Briones <br>
+-Fernanda Elizabeth Romo Alarcón <br>
+-Nolberto Castro Sánchez 🦁<br>
+
+[Hello]
