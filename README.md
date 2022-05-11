@@ -4,6 +4,8 @@
 
 ##Integrantes:🛠
 
+Lo logré armando
+
 -Armando Terrazas Gómez <br>
 -Heber Giovanni Moran Briones A01642300<br>
 -Fernanda Elizabeth Romo Alarcon A01639261<br>
