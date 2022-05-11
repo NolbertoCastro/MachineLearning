@@ -1,10 +1,10 @@
 # MachineLearning
-En el siguiente repositorio nos dispondremos a crear un algoritmo de Machine Learning para nuestra semana tec.
+##En el siguiente repositorio nos dispondremos a crear un algoritmo de Machine Learning para nuestra semana tec.🐐💻
 
 
-Integrantes:
+##Integrantes:🛠
 
-Armando Terrazas Gómez
-Heber Giovanni Moran Briones 
-Fernanda Elizabeth Romo Alarcón
-Nolberto Castro Sánchez
+Armando Terrazas Gómez <br>
+Heber Giovanni Moran Briones <br>
+Fernanda Elizabeth Romo Alarcón <br>
+Nolberto Castro Sánchez <br>
