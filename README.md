@@ -11,5 +11,6 @@ Lo logré armando
 -Fernanda Elizabeth Romo Alarcon A01639261<br>
 -Nolberto Castro Sánchez 🦁 Mi gallito hermoso <3<3<3<3<br>
 -Samuel García Berenfeld A01642317<br>
+-Alan Antonio Ruelas Robles A01641426 <br>
 [Hello]
 [Testing]
