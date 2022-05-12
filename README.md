@@ -13,4 +13,3 @@ Lo logré armando
 -Samuel García Berenfeld A01642317<br>
 -Alan Antonio Ruelas Robles A01641426 <br>
 [Hello]
-[Testing]
