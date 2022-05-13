@@ -4,10 +4,10 @@ En el siguiente repositorio nos dispondremos a crear un algoritmo de Machine Lea
 ## Herramientas computacionales: el arte de la analítica (Gpo 200)
 
 ## Integrantes:🛠
-- Armando Terrazas Gómez <br>
+- Armando Terrazas Gómez A01640924<br>
 - Heber Giovanni Moran Briones A01642300<br>
 - Fernanda Elizabeth Romo Alarcon A01639261<br>
-- Nolberto Castro Sánchez <3<3<3<3<br>
+- Nolberto Castro Sánchez A01641501<br>
 - Samuel García Berenfeld A01642317<br>
 - Alan Antonio Ruelas Robles A01641426 <br>
 
