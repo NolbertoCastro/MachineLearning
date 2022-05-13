@@ -4,12 +4,9 @@
 
 ##Integrantes:🛠
 
-Lo logré armando
-
 -Armando Terrazas Gómez <br>
 -Heber Giovanni Moran Briones A01642300<br>
 -Fernanda Elizabeth Romo Alarcon A01639261<br>
--Nolberto Castro Sánchez 🦁 Mi gallito hermoso <3<3<3<3<br>
+-Nolberto Castro Sánchez <3<3<3<3<br>
 -Samuel García Berenfeld A01642317<br>
 -Alan Antonio Ruelas Robles A01641426 <br>
-[Hello]
