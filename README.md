@@ -1,5 +1,5 @@
 # Aprendiendo sobre Machine Learning- Semana Tec 2022
-En el siguiente repositorio nos dispondremos a crear un algoritmo de Machine Learning como evidencia para nuestra semana tec (09-13/05/2022)🐐💻
+En el siguiente repositorio nos dispondremos a crear un algoritmo de Machine Learning como evidencia para nuestra semana tec (09-13/05/2022). Tomamos un dataset que nos muestra las top 100 canciones de los años 2010 hasta 2019; y se describen algunas de las características de cada una.🐐💻
 
 ## Herramientas computacionales: el arte de la analítica (Gpo 200)
 
