@@ -17,3 +17,9 @@ En el siguiente repositorio nos dispondremos a crear un algoritmo de Machine Lea
 - Sklearn
 
 La última actualización se hizo el 13/05/2022.
+
+##Referencias
+- Programming with Mosh. (2020, 17 septiembre).
+	Python Machine Learning Tutorial (Data Science)[Video]. YouTube.
+	https://youtu.be/7eh4d6sabA0
+
