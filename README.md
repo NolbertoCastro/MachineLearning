@@ -6,7 +6,7 @@ En el siguiente repositorio nos dispondremos a crear un algoritmo de Machine Lea
 ## Integrantes:🛠
 - Armando Terrazas Gómez A01640924<br>
 - Heber Giovanni Moran Briones A01642300<br>
-- Fernanda Elizabeth Romo Alarcon A01639261<br>
+- Fernanda Elizabeth Romo Alarcon A016392610<br>
 - Nolberto Castro Sánchez A01641501<br>
 - Samuel García Berenfeld A01642317<br>
 - Alan Antonio Ruelas Robles A01641426 <br>
